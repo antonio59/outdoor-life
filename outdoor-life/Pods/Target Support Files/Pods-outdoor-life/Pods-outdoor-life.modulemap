@@ -1,0 +1,6 @@
+framework module Pods_outdoor_life {
+  umbrella header "Pods-outdoor-life-umbrella.h"
+
+  export *
+  module * { export * }
+}

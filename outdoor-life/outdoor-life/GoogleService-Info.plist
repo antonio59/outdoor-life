@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>852328026542-mnne8tb441eo30blin9g3ole21k7bvrq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.852328026542-mnne8tb441eo30blin9g3ole21k7bvrq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAKsPKxw3vcgNVaFqkuR_5GHzWyjW5sE18</string>
+	<key>GCM_SENDER_ID</key>
+	<string>852328026542</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.antoniosmith.outdoor-life</string>
+	<key>PROJECT_ID</key>
+	<string>outdoor-life</string>
+	<key>STORAGE_BUCKET</key>
+	<string>outdoor-life.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:852328026542:ios:530baa07d4283da3</string>
+	<key>DATABASE_URL</key>
+	<string>https://outdoor-life.firebaseio.com</string>
+</dict>
+</plist>
